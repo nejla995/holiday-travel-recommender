@@ -1,0 +1,7 @@
+destination,country,average_temperature,price_level,activities,rating,best_for,flight_time_hours,holiday_vibe
+Vienna,Austria,2,medium,"Christmas markets;Museums;Coffee culture",4.8,couples,2,festive
+Zermatt,Switzerland,-1,high,"Skiing;Luxury hotels;Fine dining",4.9,families,3,adventurous
+Paris,France,5,high,"Sightseeing;Shopping;Romantic walks",4.7,couples,2,festive
+Prague,Czech Republic,0,medium,"Christmas markets;Historic sites;Local food",4.6,families,2,cozy
+Rome,Italy,7,medium,"Historic tours;Gastronomy;Sightseeing",4.7,couples,2.5,festive
+Lapland,Finland,-10,high,"Northern lights;Husky rides;Santa village",4.9,families,4,magical
